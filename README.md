@@ -1,11 +1,11 @@
 # Office2019-or-2021
 
-elf-contained batch script that:
-Locates your Office16 folder.
-Detects whether you have Office 2019 VL or Office 2021 VL license files.
-Installs only the matching VL license.
-Applies the correct GVLK for that version.
-Loops through multiple KMS hosts until activation succeeds (or all fail).
+– The script will:
+Detect your Office version
+Install the matching VL license files
+Inject the correct GVLK
+Loop through KMS hosts until activation succeeds
+
 
 Open Command Prompt as Administrator
 Click Start → type cmd.
