@@ -11,6 +11,11 @@ Inject the correct GVLK
 Loop through KMS hosts until activation succeeds
 
 
+
 Open Command Prompt as Administrator
+
 Click Start → type cmd.
+
 Right-click Command Prompt → Run as administrator.
+
+more info vpsrent@gmail.com OR whatsapp http://wa.me/8801771240000
